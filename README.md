@@ -23,7 +23,7 @@ const stack = {
 ```
 
 
-🚀 About Me
+###🚀 About Me
 👨‍💻 I build scalable full-stack applications using modern frameworks.
 
 🗺️ I specialize in interactive maps, geolocation, and real-time apps.
@@ -32,20 +32,19 @@ const stack = {
 
 💬 Ask me about Laravel, Vue, MERN stack, or any mapping API.
 
-🤝 Let’s Collaborate!
+###🤝 Let’s Collaborate!
 Whether it's a startup idea, a challenging problem, or a cool open-source project —
 📩 Feel free to reach out! I love building things with awesome people.
 
 💡 “Alone we can do so little; together we can do so much.” – Helen Keller
 
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khushal12121&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=khushal12121&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=khushal12121&theme=redical" alt="GitHub Contribution Graph" /> </p>
-📫 How to Reach Me
+
+###📫 How to Reach Me
 📧 Email: khushal.sharma12121@gmail.com
 
 💼 LinkedIn: linkedin.com/in/khushal-sharma
 
-⚡ Fun Fact
+###⚡ Fun Fact
 I debug faster with caffeine and synthwave in the background.
 ☕ + 🎧 = 🧠 + 💡
 

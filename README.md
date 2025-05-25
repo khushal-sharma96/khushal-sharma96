@@ -9,6 +9,8 @@
 
 ### 🧠 Tech Toolbox
 
+### 🧠 Tech Toolbox
+
 ```ts
 const stack = {
   javascript: ['React', 'Vue', 'Nuxt', 'Node.js', 'NestJS', 'Electron'],
@@ -21,25 +23,30 @@ const stack = {
   others: ['REST API', 'JWT Auth', 'Socket.IO', 'PWA']
 }
 
+
 🚀 About Me
-🧑‍💻 I build scalable full-stack applications using modern frameworks.
+👨‍💻 I build scalable full-stack applications using modern frameworks.
 
 🗺️ I specialize in interactive maps, geolocation, and real-time apps.
 
-🧼 I believe in clean, maintainable code and continuous learning.
+🧼 I believe in writing clean, maintainable code and staying curious.
 
-💬 Ask me about Laravel, Vue, MERN stack, or any mapping API!
+💬 Ask me about Laravel, Vue, MERN stack, or any mapping API.
 
-Whether it's a new idea, a cool open-source project, or just to brainstorm —
-📬 Feel free to reach out! I love building things with awesome people.
+🤝 Let’s Collaborate!
+Whether it's a startup idea, a challenging problem, or a cool open-source project —
+📩 Feel free to reach out! I love building things with awesome people.
 
 💡 “Alone we can do so little; together we can do so much.” – Helen Keller
 
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khushal12121&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=khushal12121&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=khushal12121&theme=redical" alt="GitHub Contribution Graph" /> </p>
 📫 How to Reach Me
 📧 Email: khushal.sharma12121@gmail.com
 
-💻 LinkedIn: linkedin.com/in/khushal-sharma
+💼 LinkedIn: linkedin.com/in/khushal-sharma
 
 ⚡ Fun Fact
-I can debug faster with caffeine and background synthwave music. ☕🎧
+I debug faster with caffeine and synthwave in the background.
+☕ + 🎧 = 🧠 + 💡
 

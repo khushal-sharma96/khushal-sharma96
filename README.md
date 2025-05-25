@@ -18,7 +18,8 @@ const stack = {
   maps: ['Google Maps API', 'Mapbox', 'HERE Maps'],
   devops: ['Git', 'Docker', 'Vercel', 'Render', 'DigitalOcean'],
   database: ['MongoDB', 'MySQL', 'PostgreSQL'],
-  others: ['REST API', 'JWT Auth', 'Socket.IO', 'PWA']
+  payment_gateways : ['Stripe'],
+  others: ['REST API', 'JWT Auth', 'Socket.IO', 'PWA','Mail Chimp']
 }
 ```
 

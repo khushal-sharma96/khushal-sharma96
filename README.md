@@ -9,8 +9,6 @@
 
 ### 🧠 Tech Toolbox
 
-### 🧠 Tech Toolbox
-
 ```ts
 const stack = {
   javascript: ['React', 'Vue', 'Nuxt', 'Node.js', 'NestJS', 'Electron'],

@@ -22,6 +22,7 @@ const stack = {
   database: ['MongoDB', 'MySQL', 'PostgreSQL'],
   others: ['REST API', 'JWT Auth', 'Socket.IO', 'PWA']
 }
+```
 
 
 🚀 About Me

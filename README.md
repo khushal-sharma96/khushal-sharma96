@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm Khushal Sharma</h1>
 <h3 align="center">💻 Full-Stack Developer | 🌍 MERN + Laravel + Vue | 🧠 Always Curious</h3>
 
 <p align="center">

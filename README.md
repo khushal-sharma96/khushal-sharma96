@@ -12,11 +12,12 @@
 ```ts
 const stack = {
   javascript: ['React', 'Vue', 'Nuxt', 'Node.js', 'NestJS', 'Electron'],
-  php: ['Laravel', 'CodeIgniter'],
+  php: ['Laravel', 'CodeIgniter', 'Yii'],
   fullstack: ['MERN', 'MEVN', 'LAMP'],
   styling: ['Tailwind CSS', 'Bootstrap', 'Sass'],
   maps: ['Google Maps API', 'Mapbox', 'HERE Maps'],
   devops: ['Git', 'Docker', 'Vercel', 'Render', 'DigitalOcean'],
+  cloud_services: ['AWS', 'Azure'],
   database: ['MongoDB', 'MySQL', 'PostgreSQL'],
   payment_gateways : ['Stripe'],
   others: ['REST API', 'JWT Auth', 'Socket.IO', 'PWA','Mail Chimp']
